@@ -29,12 +29,15 @@ O tempo necessário para encontrar as drogarias mais próximas de cada ponto da 
 
 ## Resultados
 
+Link da apresentação: https://docs.google.com/presentation/d/1sucBi9_i33S0cbvXDI8fA2kKA7T1pq20/edit?usp=sharing&ouid=112530819681451686565&rtpof=true&sd=true
+
 O tempo de execução de cada modelo foi registrado no gráfico abaixo, que representa o tempo no eixo y e o número de nós no modelo no eixo x. Cada série representa um modelo.
+
+![results](https://github.com/vfernandes7/TCC/blob/main/Desempenho%20Mecanismos%20de%20Busca.jpg)
 
 O estudo permitiu também a criação do seguinte gráfico do mapa da cidade de Belo Horizonte, registrando a distância necessária para alcançar a Drogaria Araújo mais próxima de cada ponto da cidade.
 
-
-Aqui está a versão em inglês da sua descrição:
+![map](https://github.com/vfernandes7/TCC/blob/main/Mapa%20BH%20-%20Drogarias%20Araujo.jpg)
 
 ---
 
@@ -69,6 +72,12 @@ The time required to find the closest drugstores from each point in the city was
 
 ## Results
 
+Presentation link https://docs.google.com/presentation/d/1sucBi9_i33S0cbvXDI8fA2kKA7T1pq20/edit?usp=sharing&ouid=112530819681451686565&rtpof=true&sd=true
+
 The execution time of each model was recorded in the graph below, where the y-axis represents time and the x-axis represents the number of nodes in the model. Each series represents a model.
 
+![results](https://github.com/vfernandes7/TCC/blob/main/Desempenho%20Mecanismos%20de%20Busca.jpg)
+
 The study also enabled the creation of the following map graph of the city of Belo Horizonte, showing the necessary distance to reach the nearest Drogaria Araújo from each point in the city.
+
+![map](https://github.com/vfernandes7/TCC/blob/main/Mapa%20BH%20-%20Drogarias%20Araujo.jpg)
